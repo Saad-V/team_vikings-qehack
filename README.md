@@ -1,5 +1,4 @@
 # Real-Time Threat Detection & Mitigation System
-A split-architecture, real-time threat detection system engineered strictly for the **QNX Neutrino RTOS**. 
 
 This project uses microkernel isolation and priority-based preemptive scheduling to deterministically identify and mitigate microarchitectural attacks in embedded environments. By replacing non-deterministic high computational overhead with a high-speed C-native engine, this system guarantees microsecond response times without compromising system stability.
 
