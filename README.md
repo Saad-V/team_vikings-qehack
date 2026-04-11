@@ -38,5 +38,6 @@ The system consists of three isolated C programs communicating exclusively via t
 ├── security_monitor.c    # Heuristic threat detection engine
 ├── mitigation_engine.c   # Priority 63 preemption and system lock-down
 ├── security_ipc.h        # Shared definitions, structs, and IPC channel names
+|-- Demo_video.mp4
 └── README.md             # Project documentation
 
